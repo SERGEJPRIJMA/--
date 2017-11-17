@@ -98,6 +98,7 @@
             <CfgParent>Base</CfgParent>
         </BuildConfiguration>
     </ItemGroup>
+//////////////////////////СЕРОЖА МОЛОДЕЦ, ВОЗЬМИ С ПОЛКИ ПИРОЖОЧЕК
     <ProjectExtensions>
         <Borland.Personality>Delphi.Personality.12</Borland.Personality>
         <Borland.ProjectType/>
